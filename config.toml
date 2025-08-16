@@ -1,0 +1,4 @@
+baseURL = "https://zhiqiangbao1995.github.io/"
+languageCode = "zh-CN"  # 设置为中文
+title = "看法"   # 网站标题
+theme = "ananke"
